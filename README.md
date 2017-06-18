@@ -1,6 +1,13 @@
 # BlenderStudy
 Study of Blender
 
+## Blender  
+python 2.6  
+http://www.python.org/ftp/python/2.6/python-2.6.msi  
+blender  
+http://download.blender.org/release/  
+blender-2.49b-windows.exe  
+
 ## OpenGLで遊ぼう６ -まとめ！-  
 http://gomi-box.hatenablog.com/entry/20080519/1211159996  
 http://opengl.jp/oglfaq/miscellaneous.htm  
