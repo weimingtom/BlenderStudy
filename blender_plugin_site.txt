@@ -1,0 +1,16 @@
+https://skydrive.live.com/?cid=ce4c74eda2a73245&sc=documents&id=CE4C74EDA2A73245%21154#cid=CE4C74EDA2A73245&id=CE4C74EDA2A73245%21155&sc=documents
+http://pr0jectze10.tuzigiri.com/simpleVC_20101031222442.html
+http://pr0jectze10.tuzigiri.com/index.html
+
+
+インストーラー版:
+    "インストール時に選択したユーザーデータ格納先/Blender Function/Blender/2.5x/scripts/addons"に
+    解凍したソースファイルを設置
+
+?zip版:
+    "解凍先(任意)/2.5x/scripts/addons"に解凍したソースファイルを設置
+    
+    
+C:\Documents and Settings\Administrator\Application Data\Blender Foundation\Blender\.blender\scripts
+pmd_import_249.py
+
