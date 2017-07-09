@@ -1,6 +1,9 @@
 # BlenderStudy
 Study of Blender
 
+## Workspace  
+https://github.com/weimingtom/papervision3d_java  
+
 ## Blender  
 python 2.6  
 http://www.python.org/ftp/python/2.6/python-2.6.msi  
