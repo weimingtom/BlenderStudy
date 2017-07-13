@@ -2,7 +2,8 @@
 Study of Blender
 
 ## Workspace  
-https://github.com/weimingtom/papervision3d_java  
+* https://github.com/weimingtom/papervision3d_java  
+* https://github.com/weimingtom/misaki  
 
 ## Blender  
 python 2.6  
