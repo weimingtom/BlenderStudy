@@ -39,3 +39,9 @@ https://github.com/weimingtom/away3d
 https://github.com/weimingtom/papervision3d_java  
 see doc/pv3d2_v10.rar  
 see weimingtom/papervision3d the oldest commit  
+
+## obj  
+* https://github.com/deusprogrammer/Wavefront-OBJ-Model-Class  
+
+## pmd  
+* https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
