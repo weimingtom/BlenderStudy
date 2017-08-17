@@ -49,3 +49,7 @@ see weimingtom/papervision3d the oldest commit
 ## Model Viewer  
 * http://sourceforge.net/projects/glc-player/  
 see https://en.wikipedia.org/wiki/COLLADA  
+
+## mmdagent  
+https://github.com/challengebbc/MMDAgent  
+https://github.com/ChaseBro/MMDAgent  
