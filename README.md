@@ -42,6 +42,8 @@ see weimingtom/papervision3d the oldest commit
 
 ## obj  
 * https://github.com/deusprogrammer/Wavefront-OBJ-Model-Class  
+* https://github.com/GardenLee/ZBuffer/blob/master/globaldefine.cpp  
+read_file()  
 
 ## pmd  
 * https://github.com/weimingtom/wmt_link_collections_in_Chinese/blob/master/mmd.md  
