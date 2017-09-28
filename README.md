@@ -39,6 +39,8 @@ https://github.com/weimingtom/away3d
 https://github.com/weimingtom/papervision3d_java  
 see doc/pv3d2_v10.rar  
 see weimingtom/papervision3d the oldest commit  
+gomobileapp  
+https://github.com/lomoalbert/gomobileapp  
 
 ## obj  
 * https://github.com/deusprogrammer/Wavefront-OBJ-Model-Class  
