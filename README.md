@@ -77,3 +77,8 @@ RenderMonkey
 ## OpenGL ES Programming Guide  
 https://developer.apple.com/library/content/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Performance/Performance.html  
 
+## cg language  
+http://blog.csdn.net/pizi0475/article/details/45191085  
+cgc -profile glslv -o direct.glsl -entry main VertexColor.fcg  
+https://developer.nvidia.com/cg-toolkit  
+
