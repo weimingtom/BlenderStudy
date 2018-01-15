@@ -79,6 +79,6 @@ https://developer.apple.com/library/content/documentation/3DDrawing/Conceptual/O
 
 ## cg language  
 http://blog.csdn.net/pizi0475/article/details/45191085  
-cgc -profile glslv -o direct.glsl -entry main VertexColor.fcg  
+cgc -profile glslv -o direct.glsl -entry main xx.cg  
 https://developer.nvidia.com/cg-toolkit  
 
