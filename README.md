@@ -86,3 +86,10 @@ https://developer.nvidia.com/cg-toolkit
 http://3d.nicovideo.jp  
 http://3d.nicovideo.jp/alicia/  
 
+## Unity  
+MMD4Mecanim  
+http://stereoarts.jp  
+使用MMD4Mecanim完美把PMX/MPD完美转成fbx 导入3DMAX MAYA C4D  
+http://www.miku5.com/zt104502-1-1.html  
+将mmd模型改造成游戏可用模型  
+http://blog.csdn.net/sdqq1234/article/details/45604499  
