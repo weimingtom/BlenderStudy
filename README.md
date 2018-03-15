@@ -86,7 +86,7 @@ https://developer.nvidia.com/cg-toolkit
 http://3d.nicovideo.jp  
 http://3d.nicovideo.jp/alicia/  
 
-## Unity  
+## MMD4Mecanim (for Unity)    
 MMD4Mecanim (search baidu pan)    
 http://stereoarts.jp  
 使用MMD4Mecanim完美把PMX/MPD完美转成fbx 导入3DMAX MAYA C4D  
