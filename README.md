@@ -82,3 +82,7 @@ http://blog.csdn.net/pizi0475/article/details/45191085
 cgc -profile glslv -o direct.glsl -entry main xx.cg  
 https://developer.nvidia.com/cg-toolkit  
 
+## ニコニ立体ちゃん  
+http://3d.nicovideo.jp  
+http://3d.nicovideo.jp/alicia/  
+
