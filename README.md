@@ -93,3 +93,9 @@ http://stereoarts.jp
 http://www.miku5.com/zt104502-1-1.html  
 将mmd模型改造成游戏可用模型  
 http://blog.csdn.net/sdqq1234/article/details/45604499  
+
+## 全方位3D游戏设计——游戏引擎与游戏开发实例剖析  
+search baidu pan  
+
+## collada-dom  
+https://github.com/weimingtom/dae_viewer  
