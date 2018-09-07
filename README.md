@@ -95,7 +95,10 @@ http://www.miku5.com/zt104502-1-1.html
 http://blog.csdn.net/sdqq1234/article/details/45604499  
 
 ## 全方位3D游戏设计——游戏引擎与游戏开发实例剖析  
-search baidu pan  
+search baidupan  
 
 ## collada-dom  
 https://github.com/weimingtom/dae_viewer  
+
+## MikuMikuDroid_v1.7z  
+Search baidupan  
