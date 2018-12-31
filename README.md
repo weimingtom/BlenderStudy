@@ -1,6 +1,10 @@
 # BlenderStudy
 Study of Blender
 
+## Book  
+* (baidupan) 玩转BLENDER  3D动画角色创作  
+* (baidupan) Blender权威指南  
+
 ## Workspace  
 * https://github.com/weimingtom/papervision3d_java  
 * https://github.com/weimingtom/misaki  
