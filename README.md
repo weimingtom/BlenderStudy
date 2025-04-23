@@ -106,7 +106,7 @@ https://github.com/weimingtom/dae_viewer
 
 ## MikuMikuDroid_v1.7z  
 * Search baidupan  
-* HTC手机备份_Archive
+* HTC手机备份_Archive, MikuMikuPhoto, jp.pujo.mikumikuphoto_18.apk  
 
 ## big buck bunny  
 https://download.blender.org/peach/bigbuckbunny_movies/  
