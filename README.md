@@ -106,7 +106,17 @@ https://github.com/weimingtom/dae_viewer
 
 ## MikuMikuDroid_v1.7z  
 * Search baidupan  
-* HTC手机备份_Archive, MikuMikuPhoto, jp.pujo.mikumikuphoto_18.apk  
+* HTC手机备份_Archive, MikuMikuPhoto, jp.pujo.mikumikuphoto_18.apk
+* (dead) http://www.geocities.jp/higuchuu4/index.htm   
+https://sites.google.com/view/vpvp/  
+see https://github.com/garakutanokiseki/MikuMikuDroid  
+MikuMikuDance_v524.zip see   
+```
+1.2 MikuMikuDance(Multi-Model Edition)
+ 複数のモデルを同時編集可能（※こちらはWindowsXP用の古いバージョンです）
+
+MikuMikuDance(Multi-Model Edition)     (約5MB)
+```
 
 ## big buck bunny  
 https://download.blender.org/peach/bigbuckbunny_movies/  
