@@ -106,7 +106,8 @@ https://github.com/weimingtom/dae_viewer
 
 ## MikuMikuDroid_v1.7z  
 * Search baidupan  
-* HTC手机备份_Archive, MikuMikuPhoto, jp.pujo.mikumikuphoto_18.apk
+* HTC手机备份_Archive, MikuMikuPhoto, jp.pujo.mikumikuphoto_18.apk  
+* work_mmd, MikuMikuDroid_0.25_APKPure.apk, MikuMikuDance_v524.zip  
 * (dead) http://www.geocities.jp/higuchuu4/index.htm   
 https://sites.google.com/view/vpvp/  
 see https://github.com/garakutanokiseki/MikuMikuDroid  
